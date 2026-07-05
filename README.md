@@ -12,6 +12,5 @@ pip install fonttools
 python rename_fonts.py
 ```
 
-**Easy!
-**
+**Easy!**
 > if this script ever breaks, all it is doing is adding .otf to the end of the filenames, and using the library font tools to find the name from the metadata and rename them.
